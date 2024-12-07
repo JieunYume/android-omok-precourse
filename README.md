@@ -1,4 +1,7 @@
 # android-omok-precourse
+# 결과
+<img src="https://github.com/user-attachments/assets/c443617c-5f11-4412-b543-ef37fa08567c" width="30%">
+
 # 기능 목록
 ## 돌 두기
 ### 1. 돌 번갈아 가며 두기
